@@ -2,3 +2,5 @@ This code mines weather data from capilal cities around the world and for specif
 
 #1 Weather Stations IDs:
 
+It contains weather station IDs using GHCND database (http://www1.ncdc.noaa.gov/pub/data/ghcn/daily/ghcnd-stations.txt) and weather station IDs using ASOS (http://www.ncdc.noaa.gov/data-access/land-based-station-data/land-based-datasets/automated-surface-observing-system-asos)
+(Countries are coded according to ISO 3166-1 alpha-2 standard)
